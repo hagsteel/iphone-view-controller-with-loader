@@ -22,7 +22,7 @@ MyViewController.h
 @end
 ```
 
-// MyViewController.m
+MyViewController.m
 ```
 #import "MyViewController.h"
 
