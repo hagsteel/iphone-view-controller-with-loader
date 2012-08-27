@@ -32,7 +32,7 @@ MyViewController.h
 - (void)viewDidAppear:(BOOL)animated {
     [super viewDidAppear:animated];
     [self showLoader];
-    // Do something data processing here
+    // Do some data processing here that will call doneProcessing when done
 }
 
 - (void)doneProcessing {
