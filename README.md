@@ -3,7 +3,7 @@ iPhone view controller with loader
 
 View controller and table view controller with modal loader graphic
 
-![screenshot](https://raw.github.com/jonashagstedt/iPhone-view-controller-with-loader/master/screenshot.png)
+![screenshot](https://raw.github.com/wildfish/iPhone-view-controller-with-loader/master/screenshot.png)
 
 Implementation
 ----
